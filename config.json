@@ -1,6 +1,7 @@
  {
-  "timeZone": "Asia/Jakarta",
-  "language": "en",
+  "timeZone": "Europe/RomeJ
+",
+  "language": "it",
   "ownerNumber": ["", ""],
   "readStatus": false,
   "readMessage": false,
@@ -10,8 +11,8 @@
     "ban": false
   },
   "prefix": "!#.",
-  "name": "𝙷ɪɢᴀꜱʜɪʏᴀᴍᴀ 𝙺ᴏʙᴇɴɪ",
-  "footer": "arugaz/whatsapp-bot",
+  "name": "Test Edoardo",
+  "footer": "whatsapp-bot",
   "self": true,
   "user": {
     "basic": {
